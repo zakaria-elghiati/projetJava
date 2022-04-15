@@ -26,7 +26,7 @@ public class QueryDataBase {
         this.Host=host;
 
     }
-
+incrncnrincntrn,citrineioinivnienn
     //faonction pour faire la connexion avec la base de données
    public Connection ConnexionDataBase(){
         try{
