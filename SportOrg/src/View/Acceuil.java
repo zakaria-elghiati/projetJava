@@ -15,7 +15,7 @@ import javax.swing.border.Border;
  * @author zakariae
  */
 public class Acceuil extends javax.swing.JFrame {
-
+println("hello");
     public Acceuil() {
         initComponents();
     }
