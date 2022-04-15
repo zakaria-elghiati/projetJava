@@ -18,7 +18,7 @@ public class QueryDataBase {
     Socket Client;
     int port;
     String Host;
-
+klkkkkkk
     public QueryDataBase(String url, String username, String password, String host, int port) {
         this.url = url;
         this.username = username;
