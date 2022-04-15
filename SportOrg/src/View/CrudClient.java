@@ -15,6 +15,7 @@ public class CrudClient extends javax.swing.JFrame {
     /**
      * Creates new form Crud_Terrain
      */
+    println("erreur");
     ResultSet rs;
     QueryDataBase database;
 
